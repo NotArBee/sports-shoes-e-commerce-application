@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <color name="primaryColor">#1F1D2B</color>
+    <color name="secondaryColor">#252836</color>
+    <color name="purple">#6C5ECF</color>
+    <color name="tosca">#38ABBE</color>
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+    <color name="shadowText">#504F5E</color>
+   <color name="editText">#2B2937</color>
+    <color name="redText">#DDEB3B3B</color>
+    <color name="priceText">#2C96F1</color>
+    <color name="sepatuCard">#F1F0F2</color>
+</resources>
